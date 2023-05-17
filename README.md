@@ -28,7 +28,7 @@
 ## 🔧技術及び道具
 
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=flat-square&logo=Unity&logoColor=black"/>  <img src="https://img.shields.io/badge/ZEPETO-A100FF.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSrp-239120.svg?style=flat-square&logo=C Sharp&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=flat-square&logo=Unity&logoColor=black"/>  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/CSrp-239120.svg?style=flat-square&logo=C Sharp&logoColor=white"/>  
 
 
 
