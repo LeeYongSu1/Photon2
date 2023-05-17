@@ -7,24 +7,21 @@
 
 2．[技術・道具](#技術及び道具)
 
-3．[リンク](#リンク)
-
 4．[担当機能](#担当機能)
 
 ## 📝概要
 
 <div align=""> 
-<img src="https://github.com/LeeYongSu1/LeeYongSu1/assets/80555875/4ebcb014-6d27-427c-8db6-ffb739da4b7d.png"  width="300px" height="300px">
+<img src="https://github.com/LeeYongSu1/LeeYongSu1/assets/80555875/4ebcb014-6d27-427c-8db6-ffb739da4b7d.png"  width="400px" height="400px">
   
 </div>
 
 **プロジェクト：**  Nightmare Shooter
 **製作期間**　
-
+ - 1週
 
 **説明**
-  - クライアントのブランドや製品を広告する。
-  - 利用者は簡単なゲームや体験をしながら楽しめる。
+  - UnityのチュートリアルプロジェクトにてPhoton2を使い、マルチプレイ機能を作る
 
 
 ## 🔧技術及び道具
@@ -42,17 +39,7 @@
 - シェーダー製作
 - パーティクル製作
 
-## 🎬動画
 
-<div align="left"> 
-  <video src="https://user-images.githubusercontent.com/80555875/222915387-1cce9f57-dadc-4ea0-8869-446bff23ee37.mp4"  width="300px" height="300px">
- </div>
- 
- <br></br>
- 
- <div align="left"> 
-  <video src="https://user-images.githubusercontent.com/80555875/222964595-03e14e36-0cde-4e1c-b94b-4e189b70a862.mp4"  width="300px" height="300px">
- </div>
  
  
   <!--
