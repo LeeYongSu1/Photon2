@@ -15,11 +15,9 @@
 
 <div align=""> 
 <img src="https://user-images.githubusercontent.com/80555875/222906424-665b4e2a-dc08-4c37-a2e8-21882b1fc110.png"  width="300px" height="300px">
-
 </div>
 
-**プロジェクト：**  ZEPETO Unity World
-
+**プロジェクト：**  Nightmare Shooter
 **製作期間**　
 
 
