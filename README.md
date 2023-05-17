@@ -14,7 +14,8 @@
 ## 📝概要
 
 <div align=""> 
-<img src="https://user-images.githubusercontent.com/80555875/222906424-665b4e2a-dc08-4c37-a2e8-21882b1fc110.png"  width="300px" height="300px">
+<img src="https://github.com/LeeYongSu1/LeeYongSu1/assets/80555875/4ebcb014-6d27-427c-8db6-ffb739da4b7d.png"  width="300px" height="300px">
+  
 </div>
 
 **プロジェクト：**  Nightmare Shooter
